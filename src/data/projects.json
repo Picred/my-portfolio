@@ -1,6 +1,14 @@
 {
     "projects": [
         {
+            "name": "Georust [2026]",
+            "description": "A Rust-based client-server application for simulating and monitoring vehicle telemetry. Vehicle clients transmit real-time GPS data via WebSockets to a server storing trips in SQLite, with CLI support for detailed route statistics.",
+            "link": "https://github.com/Picred/georust",
+            "techStack": "Rust, SQLite3, Backend, Cargo",
+            "imgUrl": "https://github.com/Picred/race-the-rails/blob/main/img/planning-phase.png?raw=true",
+            "category": "Software"
+        },
+        {
             "name": "Race the Rails [2026]",
             "description": "Full-stack client-server SPA. Implements secure REST APIs, local SQLite database storage, essential data validation, and a custom routing validation algorithm for a subway network game.",
             "link": "https://github.com/Picred/race-the-rails",
