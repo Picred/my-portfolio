@@ -4,7 +4,7 @@
             "name": "Georust [2026]",
             "description": "A Rust-based client-server application for simulating and monitoring vehicle telemetry. Vehicle clients transmit real-time GPS data via WebSockets to a server storing trips in SQLite, with CLI support for detailed route statistics.",
             "link": "https://github.com/Picred/georust",
-            "techStack": "Rust, SQLite3, Backend, Cargo",
+            "techStack": "Rust, SQLite3, Bash, Backend, Cargo",
             "imgUrl": "https://github.com/Picred/race-the-rails/blob/main/img/planning-phase.png?raw=true",
             "category": "Software"
         },
